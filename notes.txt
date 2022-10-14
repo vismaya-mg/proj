@@ -1,0 +1,18 @@
+git --version
+	=>to identifie the version of git
+git init
+	=>initialize the git
+git add
+	=>to add one file to staging area
+git add.
+	=>to add all file to staging area
+git rm--cached file name
+	=>to remove the file from to staging area
+git status
+	=>to know the current status of git
+git  commit -m "1st commit"
+	=>to commit
+git log
+	=>to view the log file 
+git restore .
+	=>to undo changes
